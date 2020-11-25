@@ -1,0 +1,13 @@
+C:\Users\02483838\source\repos\BubbleShortKaanBedel\BubbleShortKaanBedel\bin\Debug\netcoreapp3.1\BubbleShortKaanBedel.exe
+C:\Users\02483838\source\repos\BubbleShortKaanBedel\BubbleShortKaanBedel\bin\Debug\netcoreapp3.1\BubbleShortKaanBedel.deps.json
+C:\Users\02483838\source\repos\BubbleShortKaanBedel\BubbleShortKaanBedel\bin\Debug\netcoreapp3.1\BubbleShortKaanBedel.runtimeconfig.json
+C:\Users\02483838\source\repos\BubbleShortKaanBedel\BubbleShortKaanBedel\bin\Debug\netcoreapp3.1\BubbleShortKaanBedel.runtimeconfig.dev.json
+C:\Users\02483838\source\repos\BubbleShortKaanBedel\BubbleShortKaanBedel\bin\Debug\netcoreapp3.1\BubbleShortKaanBedel.dll
+C:\Users\02483838\source\repos\BubbleShortKaanBedel\BubbleShortKaanBedel\bin\Debug\netcoreapp3.1\BubbleShortKaanBedel.pdb
+C:\Users\02483838\source\repos\BubbleShortKaanBedel\BubbleShortKaanBedel\obj\Debug\netcoreapp3.1\BubbleShortKaanBedel.AssemblyInfoInputs.cache
+C:\Users\02483838\source\repos\BubbleShortKaanBedel\BubbleShortKaanBedel\obj\Debug\netcoreapp3.1\BubbleShortKaanBedel.AssemblyInfo.cs
+C:\Users\02483838\source\repos\BubbleShortKaanBedel\BubbleShortKaanBedel\obj\Debug\netcoreapp3.1\BubbleShortKaanBedel.csproj.CoreCompileInputs.cache
+C:\Users\02483838\source\repos\BubbleShortKaanBedel\BubbleShortKaanBedel\obj\Debug\netcoreapp3.1\BubbleShortKaanBedel.dll
+C:\Users\02483838\source\repos\BubbleShortKaanBedel\BubbleShortKaanBedel\obj\Debug\netcoreapp3.1\BubbleShortKaanBedel.pdb
+C:\Users\02483838\source\repos\BubbleShortKaanBedel\BubbleShortKaanBedel\obj\Debug\netcoreapp3.1\BubbleShortKaanBedel.genruntimeconfig.cache
+C:\Users\02483838\source\repos\BubbleShortKaanBedel\BubbleShortKaanBedel\obj\Debug\netcoreapp3.1\BubbleShortKaanBedel.csprojAssemblyReference.cache
